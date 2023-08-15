@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s5MXBtZ3B2dWk5dmV0dTk0OG4xcXZ0dGl0cXFzYTh4d3ZqcGUzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/huBl6gAmQY9qbFcNmm/giphy.gif)' title='Prework-rColor' width='' alt='Prework-rColor' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s5MXBtZ3B2dWk5dmV0dTk0OG4xcXZ0dGl0cXFzYTh4d3ZqcGUzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/huBl6gAmQY9qbFcNmm/giphy.gif' title='Prework-rColor' width='' alt='Prework-rColor' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with getkap.co  
