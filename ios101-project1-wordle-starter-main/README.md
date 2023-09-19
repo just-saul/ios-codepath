@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='https://giphy.com/embed/I8Tl9asaSXtEZb3qec' title='Wordle' width='' alt='Wordle' />
+<img src='https://media.giphy.com/media/I8Tl9asaSXtEZb3qec/giphy.gif' title='Wordle' width='' alt='Wordle' />
 
 ## Notes
 
