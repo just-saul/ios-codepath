@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='[https://media.giphy.com/media/huBl6gAmQY9qbFcNmm/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhkMDJ4NnZteHI5bXgzamkzYnBuNjh4cjNyaDZ0aDhzZGtqa2k0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I8Tl9asaSXtEZb3qec/giphy.gif)' title='Prework-rColor' width='' alt='Wordle' />
+<img src='(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhkMDJ4NnZteHI5bXgzamkzYnBuNjh4cjNyaDZ0aDhzZGtqa2k0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I8Tl9asaSXtEZb3qec/giphy.gif)' title='Prework-rColor' width='' alt='Wordle' />
 
 
 ## Notes
