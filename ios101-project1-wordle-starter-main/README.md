@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhkMDJ4NnZteHI5bXgzamkzYnBuNjh4cjNyaDZ0aDhzZGtqa2k0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I8Tl9asaSXtEZb3qec/giphy.gif)' title='Prework-rColor' width='' alt='Wordle' />
+<img src='<div style="width:100%;height:0;padding-bottom:212%;position:relative;"><iframe src="https://giphy.com/embed/I8Tl9asaSXtEZb3qec" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/I8Tl9asaSXtEZb3qec">via GIPHY</a></p>'/>
 
 
 ## Notes
