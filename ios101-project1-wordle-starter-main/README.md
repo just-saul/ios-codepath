@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='<div style="width:100%;height:0;padding-bottom:212%;position:relative;"><iframe src="https://giphy.com/embed/I8Tl9asaSXtEZb3qec" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/I8Tl9asaSXtEZb3qec">via GIPHY</a></p>'/>
+<img src='https://media.giphy.com/media/huBl6gAmQY9qbFcNmm/giphy.gif' title='Prework-rColor' width='' alt='Prework-rColor' />
 
 
 ## Notes
