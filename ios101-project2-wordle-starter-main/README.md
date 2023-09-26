@@ -4,7 +4,7 @@
 
 Submitted by: Saul Rios
 
-Wordle 2.0 is just like wordle but with new customizable features such as changing the diffculity of the game and what type of words you want
+Wordle 2.0 is just like wordle but with new customizable features such as changing the diffculity of the game and what type of words you want. An all new type of wordle just for you.
 
 Time spent: 2 hours spent in total
 
