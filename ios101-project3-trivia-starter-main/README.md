@@ -1,5 +1,5 @@
 # ios101-project3-trivia-starter
-# Project 3 - *Name of App Here*
+# Project 3 - Saul's App
 
 Submitted by: Saul Rios
 
@@ -11,9 +11,9 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] User can view the current question and 4 different answers
-- [x] User can view the next question after tapping an answer
-- [x] User can answer at least 3 different questions
+- [] User can view the current question and 4 different answers
+- [] User can view the next question after tapping an answer
+- [] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
